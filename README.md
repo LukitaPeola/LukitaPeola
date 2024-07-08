@@ -1,7 +1,7 @@
 # Hey there!👋 I'm Ian Brandan
 
 ## About me
-My name is Ian and I'm 21 years old. At this moment, I'm studying Systems Engineering and I have just finished a bootcamp about Data Science where I learnt how to use different technologies such as Python, SQL, PowerBI and many others. I'm taking my first steps creating projects on this platform and I'm enthusiast to keep learning and being part of others projects. I consider myself as an honest, ambitious, working and critical person. I really enjoy being part of big working groups and communicating with people.
+My name is Ian and I'm 21 years old. At this moment, I'm studying Systems Engineering and I have just finished a bootcamp about Data Science where I learnt how to use different technologies such as Python, SQL, PowerBI and many others. I'm taking my first steps creating projects on this platform and I'm enthusiast to keep learning and being part of other projects. I consider myself as an honest, ambitious, working and critical person. I really enjoy being part of big teamwork groups and communicating with people.
 
 ## Current interests
 - **🔭** Looking for my first job opportunity!

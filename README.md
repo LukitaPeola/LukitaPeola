@@ -20,8 +20,8 @@ My name is Ian and I'm 21 years old. At this moment, I'm studying Systems Engine
 ![ANTLR](https://img.shields.io/badge/ANTLR-E34F26?style=for-the-badge&logo=antlr&logoColor=white)
 
 ## GitHub Stats
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukitaPeola&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukitaPeola&layout=compact&theme=radical)
 
 <p align="center">
   <a href="https://github.com/LukitaPeola">
